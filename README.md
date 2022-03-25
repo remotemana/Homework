@@ -21,3 +21,6 @@
     -corresponding img selectors
     -h2 within <aside>
    b. changed class/id/names for selectors to match changes in HTML
+
+
+<img src="mock-up.png">
